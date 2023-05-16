@@ -1,0 +1,501 @@
+[1;31m
+Start test 1[0m
+Input length of code: 
+> 1
+4Input the number of possible symbols in the code: 
+> 10
+DThe secret code is prepared: * (0-9, a-a)Okay, let's start a game!
+Turn 0:
+> 0
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 1:
+> 1
+[1;31m
+Start test 2[0m
+Input length of code: 
+> 4
+4Input the number of possible symbols in the code: 
+> 10
+GThe secret code is prepared: **** (0-9, a-a)Okay, let's start a game!
+Turn 0:
+> 0000
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 1:
+> 1111
+!Grade : 1 bull(s) and 3 cow(s).
+Turn 2:
+> 2222
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 3:
+> 3333
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 4:
+> 4444
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 5:
+> 5555
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 6:
+> 6666
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 7:
+> 7777
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 8:
+> 8888
+!Grade : 1 bull(s) and 3 cow(s).
+Turn 9:
+> 9999
+%Grade: None. 0 bull(s) and 0 cow(s)
+	Turn 10:
+> aaaa
+!Grade : 1 bull(s) and 3 cow(s).
+	Turn 11:
+> bbbb
+!Grade : 1 bull(s) and 3 cow(s).
+	Turn 12:
+> 18ab
+!Grade : 2 bull(s) and 2 cow(s).
+	Turn 13:
+> 81ab
+!Grade : 1 bull(s) and 3 cow(s).
+	Turn 14:
+> a18b
+!Grade : 2 bull(s) and 2 cow(s).
+	Turn 15:
+> 1a8b
+[1;31m
+Start test 3[0m
+Input length of code: 
+> 6
+4Input the number of possible symbols in the code: 
+> 10
+IThe secret code is prepared: ****** (0-9, a-a)Okay, let's start a game!
+Turn 0:
+	> 000000
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 1:
+	> 111111
+!Grade : 1 bull(s) and 5 cow(s).
+Turn 2:
+	> 222222
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 3:
+	> 333333
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 4:
+	> 444444
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 5:
+	> 555555
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 6:
+	> 666666
+!Grade : 1 bull(s) and 5 cow(s).
+Turn 7:
+	> 777777
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 8:
+	> 888888
+!Grade : 1 bull(s) and 5 cow(s).
+Turn 9:
+	> 999999
+%Grade: None. 0 bull(s) and 0 cow(s)
+	Turn 10:
+	> aaaaaa
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 11:
+	> bbbbbb
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 12:
+	> cccccc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 13:
+	> 168abc
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 14:
+	> 618abc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 15:
+	> 816abc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 16:
+	> 186abc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 17:
+	> 681abc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 18:
+	> 861abc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 19:
+	> a618bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 20:
+	> 6a18bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 21:
+	> 1a68bc
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 22:
+	> a168bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 23:
+	> 61a8bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 24:
+	> 16a8bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 25:
+	> 18a6bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 26:
+	> 81a6bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 27:
+	> a186bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 28:
+	> 1a86bc
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 29:
+	> 8a16bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 30:
+	> a816bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 31:
+	> a861bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 32:
+	> 8a61bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 33:
+	> 6a81bc
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 34:
+	> a681bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 35:
+	> 86a1bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 36:
+	> 68a1bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 37:
+	> b8a16c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 38:
+	> 8ba16c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 39:
+	> ab816c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 40:
+	> ba816c
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 41:
+	> 8ab16c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 42:
+	> a8b16c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 43:
+	> 18ba6c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 44:
+	> 81ba6c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 45:
+	> b18a6c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 46:
+	> 1b8a6c
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 47:
+	> 8b1a6c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 48:
+	> b81a6c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 49:
+	> ba186c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 50:
+	> ab186c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 51:
+	> 1ba86c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 52:
+	> b1a86c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 53:
+	> a1b86c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 54:
+	> 1ab86c
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 55:
+	> 1a8b6c
+[1;31m
+Start test 4[0m
+Input length of code: 
+> 11
+4Input the number of possible symbols in the code: 
+> 10
+/Error, length is higher than possible symbols
+[1;31m
+Start test 5[0m
+Input length of code: 
+> 4
+4Input the number of possible symbols in the code: 
+> 16
+GThe secret code is prepared: **** (0-9, a-f)Okay, let's start a game!
+Turn 0:
+> 0000
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 1:
+> 1111
+!Grade : 1 bull(s) and 3 cow(s).
+Turn 2:
+> 2222
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 3:
+> 3333
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 4:
+> 4444
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 5:
+> 5555
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 6:
+> 6666
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 7:
+> 7777
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 8:
+> 8888
+!Grade : 1 bull(s) and 3 cow(s).
+Turn 9:
+> 9999
+%Grade: None. 0 bull(s) and 0 cow(s)
+	Turn 10:
+> aaaa
+!Grade : 1 bull(s) and 3 cow(s).
+	Turn 11:
+> bbbb
+!Grade : 1 bull(s) and 3 cow(s).
+	Turn 12:
+> 18ab
+!Grade : 2 bull(s) and 2 cow(s).
+	Turn 13:
+> 81ab
+!Grade : 1 bull(s) and 3 cow(s).
+	Turn 14:
+> a18b
+!Grade : 2 bull(s) and 2 cow(s).
+	Turn 15:
+> 1a8b
+[1;31m
+Start test 6[0m
+Input length of code: 
+> 6
+4Input the number of possible symbols in the code: 
+> 36
+IThe secret code is prepared: ****** (0-9, a-z)Okay, let's start a game!
+Turn 0:
+	> 000000
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 1:
+	> 111111
+!Grade : 1 bull(s) and 5 cow(s).
+Turn 2:
+	> 222222
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 3:
+	> 333333
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 4:
+	> 444444
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 5:
+	> 555555
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 6:
+	> 666666
+!Grade : 1 bull(s) and 5 cow(s).
+Turn 7:
+	> 777777
+%Grade: None. 0 bull(s) and 0 cow(s)
+Turn 8:
+	> 888888
+!Grade : 1 bull(s) and 5 cow(s).
+Turn 9:
+	> 999999
+%Grade: None. 0 bull(s) and 0 cow(s)
+	Turn 10:
+	> aaaaaa
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 11:
+	> bbbbbb
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 12:
+	> cccccc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 13:
+	> 168abc
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 14:
+	> 618abc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 15:
+	> 816abc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 16:
+	> 186abc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 17:
+	> 681abc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 18:
+	> 861abc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 19:
+	> a618bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 20:
+	> 6a18bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 21:
+	> 1a68bc
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 22:
+	> a168bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 23:
+	> 61a8bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 24:
+	> 16a8bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 25:
+	> 18a6bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 26:
+	> 81a6bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 27:
+	> a186bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 28:
+	> 1a86bc
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 29:
+	> 8a16bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 30:
+	> a816bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 31:
+	> a861bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 32:
+	> 8a61bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 33:
+	> 6a81bc
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 34:
+	> a681bc
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 35:
+	> 86a1bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 36:
+	> 68a1bc
+!Grade : 1 bull(s) and 5 cow(s).
+	Turn 37:
+	> b8a16c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 38:
+	> 8ba16c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 39:
+	> ab816c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 40:
+	> ba816c
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 41:
+	> 8ab16c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 42:
+	> a8b16c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 43:
+	> 18ba6c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 44:
+	> 81ba6c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 45:
+	> b18a6c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 46:
+	> 1b8a6c
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 47:
+	> 8b1a6c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 48:
+	> b81a6c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 49:
+	> ba186c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 50:
+	> ab186c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 51:
+	> 1ba86c
+!Grade : 3 bull(s) and 3 cow(s).
+	Turn 52:
+	> b1a86c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 53:
+	> a1b86c
+!Grade : 2 bull(s) and 4 cow(s).
+	Turn 54:
+	> 1ab86c
+!Grade : 4 bull(s) and 2 cow(s).
+	Turn 55:
+	> 1a8b6c
+[1;31m
+Start test 7[0m
+Input length of code: 
+> 0
+4Input the number of possible symbols in the code: 
+> 1
+Error
+[1;31m
+Start test 8[0m
+Input length of code: 
+> 10
+4Input the number of possible symbols in the code: 
+> 9
+/Error, length is higher than possible symbols
+[1;31m
+Start test 9[0m
+Input length of code: 
+> 9
+4Input the number of possible symbols in the code: 
+> 37
+Error
+[1;31m
+Start test 10[0m
+Input length of code: 
+> abcdefg 1 -6
+Error: Invalid input
